@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\lcd.obj",
+".\Objects\main.obj",
+".\Objects\temp.obj" 
+TO ".\Objects\temp_for_uart" 
+PRINT(".\Listings\temp_for_uart.m51") RAMSIZE(256) 
